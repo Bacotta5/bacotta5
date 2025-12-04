@@ -1,16 +1,37 @@
-## Hi there 👋
+# 💫 Bacotta
 
-<!--
-**Bacotta5/bacotta5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **Analista de QA em transição de carreira**
 
-Here are some ideas to get you started:
+Sou apaixonada por qualidade, testes e por construir produtos mais confiáveis. No momento, estou focada em iniciar minha carreira como **Quality Assurance (QA)**, expandindo habilidades técnicas e práticas de teste.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologias e Ferramentas
+
+- **Python**
+- **SQL**
+- **Postman**
+
+---
+
+## 🛠️ O que estou estudando atualmente
+
+- Testes manuais e exploratórios  
+- Automação de testes em Python  
+- Boas práticas de QA  
+- Bancos de dados e consultas SQL  
+
+---
+
+## 📫 Onde me encontrar
+*https://www.linkedin.com/in/bacotta*
+
+---
+
+## 📌 Sobre mim
+
+- Em transição de carreira para a área de QA  
+- Curiosa, detalhista e sempre buscando melhorar processos  
+- Interessada em práticas modernas de desenvolvimento e testes  
+
+
